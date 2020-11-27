@@ -22,22 +22,18 @@
   grid-gap: 17px;
 }
 
-.u-section-1 .u-back-image-1 {
-  object-position: 50% 11.53%;
-}
-
 .u-section-1 .u-over-slide-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   padding: 20px;
 }
 
+.u-section-1 .u-back-image-2 {
+  object-position: 50% 11.53%;
+}
+
 .u-section-1 .u-over-slide-2 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   padding: 20px;
-}
-
-.u-section-1 .u-back-image-3 {
-  object-position: 50% 69.3%;
 }
 
 .u-section-1 .u-over-slide-3 {
@@ -46,7 +42,7 @@
 }
 
 .u-section-1 .u-back-image-4 {
-  object-position: 0% 50%;
+  object-position: 50% 69.3%;
 }
 
 .u-section-1 .u-over-slide-4 {
@@ -55,7 +51,7 @@
 }
 
 .u-section-1 .u-back-image-5 {
-  object-position: 50% 56.26%;
+  object-position: 0% 50%;
 }
 
 .u-section-1 .u-over-slide-5 {
@@ -64,7 +60,7 @@
 }
 
 .u-section-1 .u-back-image-6 {
-  object-position: 50% 0%;
+  object-position: 50% 56.26%;
 }
 
 .u-section-1 .u-over-slide-6 {
@@ -90,13 +86,13 @@
   padding: 20px;
 }
 
+.u-section-1 .u-back-image-9 {
+  object-position: 50% 0%;
+}
+
 .u-section-1 .u-over-slide-9 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   padding: 20px;
-}
-
-.u-section-1 .u-back-image-10 {
-  object-position: 50% 0%;
 }
 
 .u-section-1 .u-over-slide-10 {
@@ -105,7 +101,7 @@
 }
 
 .u-section-1 .u-back-image-11 {
-  object-position: 50% 0.95%;
+  object-position: 50% 0%;
 }
 
 .u-section-1 .u-over-slide-11 {
@@ -113,16 +109,25 @@
   padding: 20px;
 }
 
+.u-section-1 .u-back-image-12 {
+  object-position: 50% 0.95%;
+}
+
 .u-section-1 .u-over-slide-12 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   padding: 20px;
 }
 
-.u-section-1 .u-back-image-13 {
+.u-section-1 .u-over-slide-13 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-1 .u-back-image-14 {
   object-position: 50% 15.19%;
 }
 
-.u-section-1 .u-over-slide-13 {
+.u-section-1 .u-over-slide-14 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   padding: 20px;
 }
@@ -157,7 +162,7 @@
   }
 
   .u-section-1 .u-gallery-1 {
-    height: 2939px;
+    height: 3165px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -174,7 +179,7 @@
   }
 
   .u-section-1 .u-gallery-1 {
-    height: 1850px;
+    height: 1993px;
     margin-right: initial;
     margin-left: initial;
   }
