@@ -20,16 +20,16 @@
 }
 
 .u-section-1 .u-image-1 {
-  width: 602px;
-  height: 719px;
+  width: 552px;
+  height: 659px;
   box-shadow: 0 0 40px 0 rgba(0,0,0,0.2);
   object-position: 46.8% 0%;
   background-position: 46.8% 100%;
-  margin: 22px auto -58px;
+  margin: 22px auto 0;
 }
 
 .u-section-1 .u-layout-cell-2 {
-  min-height: 810px;
+  min-height: 861px;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -37,13 +37,14 @@
 }
 
 .u-section-1 .u-text-1 {
-  font-size: 1.875rem;
-  margin: 6px auto 0 0;
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 6px 685px 0 0;
 }
 
 .u-section-1 .u-text-2 {
-  font-size: 0.875rem;
-  margin: 22px -4px 0 0;
+  font-size: 1rem;
+  margin: 24px 0 0;
 }
 
 .u-section-1 .u-btn-1 {
@@ -71,7 +72,7 @@
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: normal;
-  margin: 30px auto 0;
+  margin: 28px auto 0;
 }
 
 @media (max-width: 1199px) {
@@ -91,7 +92,6 @@
   .u-section-1 .u-image-1 {
     margin-top: 12px;
     margin-right: 74px;
-    margin-bottom: 0;
   }
 }
 
@@ -106,7 +106,7 @@
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 687px;
+    min-height: 535px;
   }
 
   .u-section-1 .u-image-1 {
@@ -129,6 +129,7 @@
   .u-section-1 .u-text-1 {
     width: auto;
     margin-top: 22px;
+    margin-right: 506px;
   }
 
   .u-section-1 .u-text-2 {
@@ -155,7 +156,7 @@
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 495px;
+    min-height: 401px;
   }
 
   .u-section-1 .u-image-1 {
@@ -176,6 +177,7 @@
 
   .u-section-1 .u-text-1 {
     margin-top: 35px;
+    margin-right: 366px;
   }
 
   .u-section-1 .u-text-2 {
@@ -184,7 +186,7 @@
   }
 
   .u-section-1 .u-btn-6 {
-    margin-top: 30px;
+    margin-top: 28px;
   }
 }
 
@@ -195,12 +197,12 @@
 
   .u-section-1 .u-layout-wrap-1 {
     width: 276px;
-    margin-top: 40px;
-    margin-bottom: 40px;
+    margin-top: 28px;
+    margin-bottom: 16px;
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 324px;
+    min-height: 252px;
   }
 
   .u-section-1 .u-image-1 {
@@ -218,6 +220,7 @@
   }
 
   .u-section-1 .u-text-1 {
+    margin-right: 166px;
     margin-left: -42px;
   }
 
