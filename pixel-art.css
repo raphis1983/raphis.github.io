@@ -25,7 +25,7 @@
 }
 
 .u-section-1 .u-back-image-1 {
-  object-position: 50% 0%;
+  object-position: 50% 27.24%;
 }
 
 .u-section-1 .u-over-slide-1 {
@@ -34,7 +34,7 @@
 }
 
 .u-section-1 .u-back-image-2 {
-  object-position: 50% 14.86%;
+  object-position: 50% 0%;
 }
 
 .u-section-1 .u-over-slide-2 {
@@ -49,6 +49,10 @@
 .u-section-1 .u-over-slide-3 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   padding: 20px;
+}
+
+.u-section-1 .u-back-image-4 {
+  object-position: 50% 14.86%;
 }
 
 .u-section-1 .u-over-slide-4 {
@@ -66,22 +70,18 @@
   padding: 20px;
 }
 
-.u-section-1 .u-back-image-7 {
-  object-position: 50% 11.53%;
-}
-
 .u-section-1 .u-over-slide-7 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   padding: 20px;
 }
 
+.u-section-1 .u-back-image-8 {
+  object-position: 50% 11.53%;
+}
+
 .u-section-1 .u-over-slide-8 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   padding: 20px;
-}
-
-.u-section-1 .u-back-image-9 {
-  object-position: 50% 69.3%;
 }
 
 .u-section-1 .u-over-slide-9 {
@@ -90,7 +90,7 @@
 }
 
 .u-section-1 .u-back-image-10 {
-  object-position: 0% 50%;
+  object-position: 50% 69.3%;
 }
 
 .u-section-1 .u-over-slide-10 {
@@ -99,7 +99,7 @@
 }
 
 .u-section-1 .u-back-image-11 {
-  object-position: 50% 33.45%;
+  object-position: 0% 50%;
 }
 
 .u-section-1 .u-over-slide-11 {
@@ -108,7 +108,7 @@
 }
 
 .u-section-1 .u-back-image-12 {
-  object-position: 50% 0%;
+  object-position: 50% 33.45%;
 }
 
 .u-section-1 .u-over-slide-12 {
@@ -117,7 +117,7 @@
 }
 
 .u-section-1 .u-back-image-13 {
-  object-position: 50% 92.27%;
+  object-position: 50% 0%;
 }
 
 .u-section-1 .u-over-slide-13 {
@@ -126,7 +126,7 @@
 }
 
 .u-section-1 .u-back-image-14 {
-  object-position: 50% 20.94%;
+  object-position: 50% 92.27%;
 }
 
 .u-section-1 .u-over-slide-14 {
@@ -135,7 +135,7 @@
 }
 
 .u-section-1 .u-back-image-15 {
-  object-position: 50% 0%;
+  object-position: 50% 20.94%;
 }
 
 .u-section-1 .u-over-slide-15 {
@@ -144,7 +144,7 @@
 }
 
 .u-section-1 .u-back-image-16 {
-  object-position: 50% 28.17%;
+  object-position: 50% 0%;
 }
 
 .u-section-1 .u-over-slide-16 {
@@ -153,7 +153,7 @@
 }
 
 .u-section-1 .u-back-image-17 {
-  object-position: 50% 0%;
+  object-position: 50% 28.17%;
 }
 
 .u-section-1 .u-over-slide-17 {
@@ -162,7 +162,7 @@
 }
 
 .u-section-1 .u-back-image-18 {
-  object-position: 50% 0.95%;
+  object-position: 50% 0%;
 }
 
 .u-section-1 .u-over-slide-18 {
@@ -171,7 +171,7 @@
 }
 
 .u-section-1 .u-back-image-19 {
-  object-position: 50% 39.43%;
+  object-position: 50% 0.95%;
 }
 
 .u-section-1 .u-over-slide-19 {
@@ -180,10 +180,19 @@
 }
 
 .u-section-1 .u-back-image-20 {
-  object-position: 50% 7.4%;
+  object-position: 50% 39.43%;
 }
 
 .u-section-1 .u-over-slide-20 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-1 .u-back-image-21 {
+  object-position: 50% 7.4%;
+}
+
+.u-section-1 .u-over-slide-21 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   padding: 20px;
 }
@@ -206,7 +215,7 @@
   }
 
   .u-section-1 .u-gallery-1 {
-    height: 1054px;
+    height: 1159px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -218,7 +227,7 @@
   }
 
   .u-section-1 .u-gallery-1 {
-    height: 3162px;
+    height: 3319px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -235,7 +244,7 @@
   }
 
   .u-section-1 .u-gallery-1 {
-    height: 1991px;
+    height: 2090px;
     margin-right: initial;
     margin-left: initial;
   }
